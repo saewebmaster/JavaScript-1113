@@ -1,0 +1,25 @@
+
+            body{
+                background: #c1c1c1;
+                margin: 0px;
+            }
+            
+            #wrapper{
+                width: 1200px;
+                margin: 0 auto; 
+                background: aquamarine;
+                
+            }
+            
+            ul{
+                list-style: none;
+            }
+            li{
+                display: inline-block;
+                padding: 25px;
+                margin: 5px;
+                background: blueviolet;
+                color: white;
+                 border-radius: 15px;
+                 min-width: 120px;
+            }
